@@ -1,0 +1,6 @@
+{
+    "env": {
+        "Mongo_Atls_Username": "RestAppUsername",
+        "Mongo_Atls_Pw": "RestAppPassword"
+    }
+}
